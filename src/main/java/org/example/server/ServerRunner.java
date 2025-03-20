@@ -10,7 +10,6 @@ import org.apache.xmlrpc.webserver.WebServer;
 import java.io.IOException;
 
 public class ServerRunner {
-    //RUN
     private static final Logger logger = Logger.getLogger(ServerRunner.class.getName());
     private static final int MAX_THREADS = 10;
 
